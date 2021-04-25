@@ -1,2 +1,2 @@
 # Logistic-Regression-Case-Study
-Breast Cancer detection using Logistic Regression
+This repo consists of code from Kirill and Hadelin's course, Logistic Regression - Pratical Case Study. 
